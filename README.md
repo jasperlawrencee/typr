@@ -1,4 +1,4 @@
-# My Rust Project
+# typr
 
 This is a simple Rust project that serves as a typing game. The application prompts the user to type random words and measures their typing speed and accuracy.
 
